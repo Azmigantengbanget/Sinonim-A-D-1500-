@@ -2150,7 +2150,7 @@
                 } else if (orderedQuestions && currentQuestionIndex === orderedQuestions.length -1) {
                     showResults();
                 }
-            }, 5000);
+            }, 4000);
         }
 
         function setStatusClass(element, correct) {
